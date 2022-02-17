@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24782532575",
+    "project_id": "encryption-project-90f2b",
+    "storage_bucket": "encryption-project-90f2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24782532575:android:57b574f9d278b47aea9e6a",
+        "android_client_info": {
+          "package_name": "com.example.passwordmanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24782532575-jki44uhcfnos9d2rce3fd89hv67lpcea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkDNwwkgdUdXq8v_7-FpU6onls4pqgwzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24782532575-jki44uhcfnos9d2rce3fd89hv67lpcea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
